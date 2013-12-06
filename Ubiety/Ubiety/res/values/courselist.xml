@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="courses">
+        <item>Mobile Application Development</item>
+        <item>Object Oriented Design Programming</item>
+        <item>Software Engineering</item>
+        <item>Software Project Management</item>
+        <item>Software Testing Analysis</item>
+        <item>Science of Programming</item>
+        <item>Computer Networks</item>
+        <item>Design and Analysis of Algorithms</item>
+        <item>Data Mining</item>
+        <item>DataBase Organization</item>
+    </string-array>    
+</resources>

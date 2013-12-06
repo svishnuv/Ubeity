@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bcg"
+    android:orientation="vertical" >
+    
+     <Button
+        android:id="@+id/adddetails"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Add Details" />
+
+    
+     
+     <Button
+        android:id="@+id/ofcours"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
+        android:text="Office Hours" />
+     
+     <EditText
+         android:id="@+id/email"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:ems="10"
+         android:inputType="textEmailAddress" />
+     
+     <Button
+        android:id="@+id/ofcloc"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Office Location" />
+  <EditText
+      android:id="@+id/username"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:ems="10"
+      android:inputType="textPersonName" />
+  
+  <Button
+        android:id="@+id/contact"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Contact Details" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword" />
+    
+    <Button
+        android:id="@+id/save"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Save" />
+
+   
+
+</LinearLayout>

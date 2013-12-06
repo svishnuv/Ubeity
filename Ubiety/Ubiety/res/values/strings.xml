@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ubiety</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="firstname">Full Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="cwid">CWID</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+     <string name="cpassword">Confirm Password</string>
+     <string name="coursename">Course Name</string>
+     <string name ="courseid">Course Id</string>
+     <string-array name="univ_array">
+        <item>Illinois Institute of Technology</item>
+        <item>Illinois State University</item>
+        <item>University of Chicago</item>
+        <item>University of Illinois</item>
+           
+    </string-array>
+    <string name="univ_prompt"> ----------Select University-------   </string>
+
+</resources>
